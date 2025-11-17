@@ -33,3 +33,5 @@ After extracting the TK5 archive into the Hercules folder, launch the system by 
 
 Downloading Hercules  for TK5 is not required . 
 2. The TN3270 requires payment，you can download the WX3270  as an alternative.
+
+Originally published at ：[Reddit](https://www.reddit.com/r/cobol/comments/1okn9sl/using_hercules_to_simulate_a_mainframe/)
